@@ -1,3 +1,6 @@
+# Fork Notice
+This project was originally forked from [https://gitlab.com/the-plant/raspi-lora](https://gitlab.com/the-plant/raspi-lora)
+
 # Overview
 
 This project is a Python library for using HopeRF RFM95/96/97/98 LoRa radios with a Raspberry Pi. The design was inspired by the [RadioHead](http://www.airspayce.com/mikem/arduino/RadioHead) project that is popular on Arduino-based platforms. Several handy features offered by RadioHead are present here, including encryption, addressing, acknowledgments and retransmission. The motivation of this project is to allow Raspberry Pis to communicate with devices using the [RadioHead RF95](http://www.airspayce.com/mikem/arduino/RadioHead/classRH__RF95.html) driver along with [RHReliableDatagram](http://www.airspayce.com/mikem/arduino/RadioHead/classRHReliableDatagram.html) and [RHEncryptedDriver](http://www.airspayce.com/mikem/arduino/RadioHead/classRHEncryptedDriver.html).
